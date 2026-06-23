@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "attachments",
+  "trashOption": "local",
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "foldHeading": true,
+  "spellcheck": false
+}
