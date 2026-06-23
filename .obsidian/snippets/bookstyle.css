@@ -1,0 +1,15 @@
+.bookstyle {
+    text-indent: 0.7em !important;
+}
+
+.markdown-rendered p,
+.markdown-rendered div,
+.markdown-rendered span {
+    text-indent: 0.7em !important;
+    /* margin-top: 0 !important; */
+    /* margin-bottom: 0 !important; */
+}
+
+.markdown-source-view.mod-cm6 .cm-line {
+    text-indent: 0.7em !important;
+}

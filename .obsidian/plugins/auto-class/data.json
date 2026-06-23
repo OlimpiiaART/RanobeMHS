@@ -1,0 +1,20 @@
+{
+  "matches": [
+    {
+      "path": "Том 1 - Меланхолия",
+      "scope": "Read",
+      "classes": [
+        "bookstyle"
+      ]
+    },
+    {
+      "path": "/",
+      "scope": "Read & Edit",
+      "classes": [
+        "bookstyle"
+      ]
+    }
+  ],
+  "version": "2.3.0",
+  "usePathGlob": true
+}
