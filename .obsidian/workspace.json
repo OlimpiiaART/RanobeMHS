@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "d4e1d3cf6674d2cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "afeffe7aac0f926c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c01441b6c32667a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Том 1 - Меланхолия/Начальные иллюстрации.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Начальные иллюстрации"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86e4a034e5f33997",
+    "type": "split",
+    "children": [
+      {
+        "id": "64bea82998dc09b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1cca1a4944a3527",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4fb57d31798ed243",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "3efc38f00f800936",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a88ff4529cb26dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e88a30c2f14a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d030dab2d504b67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Том 1 - Меланхолия/Начальные иллюстрации.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Начальные иллюстрации"
+            }
+          },
+          {
+            "id": "ba50cec96662be99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Том 1 - Меланхолия/Начальные иллюстрации.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Начальные иллюстрации"
+            }
+          },
+          {
+            "id": "7766650ec1739831",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a2e0506e726a6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Том 1 - Меланхолия/Начальные иллюстрации.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Начальные иллюстрации"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "bases:Создать новую базу": false,
+      "custom-sort:Toggle custom sorting": true
+    }
+  },
+  "active": "6c01441b6c32667a",
+  "lastOpenFiles": []
+}

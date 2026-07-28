@@ -13,3 +13,11 @@
 .markdown-source-view.mod-cm6 .cm-line {
     text-indent: 0.7em !important;
 }
+
+.status-bar-item.plugin-backlink {
+    display: none !important;
+}
+
+.status-bar-item.plugin-sync {
+    display: none !important;
+}

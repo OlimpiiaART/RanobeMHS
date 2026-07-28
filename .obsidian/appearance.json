@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "bookstyle"
   ],
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "showRibbon": false
 }
