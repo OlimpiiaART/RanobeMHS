@@ -1,5 +1,5 @@
 .findduplicate.sh
 .trash
-cursor-positions.json
-workspace.json
-workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/remember-cursor-position/cursor-positions.json
